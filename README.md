@@ -129,7 +129,7 @@ A full 12-page independent research paper was written documenting methodology, f
 MSc Business Analytics — Aston University, Birmingham
 hritik926@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ashutosh-kesarwani-a39835281/)
 
 ---
 
