@@ -48,10 +48,10 @@ No course. No assignment. Just curiosity and data.
 ## 📊 Dashboard Preview
 
 ### KPI Dashboard
-![KPI Dashboard](dashboard/kpi_dashboard.png)
+![KPI Dashboard](kpi_dashboard.png)
 
 ### Risk Scorer
-![Risk Scorer](dashboard/risk_scorer.png)
+![Risk Scorer](risk_scorer.png)
 
 ---
 
